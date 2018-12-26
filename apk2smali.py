@@ -1,6 +1,5 @@
 import os
 import random
-import subprocess
 
 random.seed(1)
 
